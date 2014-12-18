@@ -1,4 +1,3 @@
-mecsammanagermock
-=================
+The OpenShift `jbosseap` cartridge documentation can be found at:
 
-Módulo de entrega de crédito MOCK
+http://openshift.github.io/documentation/oo_cartridge_guide.html#jbosseap

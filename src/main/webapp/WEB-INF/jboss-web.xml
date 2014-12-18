@@ -1,0 +1,3 @@
+<jboss-web>
+	<context-root>samManager</context-root>
+</jboss-web>
